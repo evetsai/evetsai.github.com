@@ -1,0 +1,33 @@
+@charset "UTF-8";
+.title_l {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 30px;
+	line-height: 45px;
+	border: 3px none #063;
+}
+#listing_cell {
+	border: 1px none #CCC;
+	border-radius: 10px;
+	padding-right: 10px;
+	padding-left: 10px;
+	float: left;
+	margin: 5px;
+}
+#listing {
+	border: 1px solid #999;
+	display: block;
+	border-radius: 10px;
+	float: left;
+}
+.title_m {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 24px;
+	line-height: 35px;
+}
+.title_s {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 14px;
+	line-height: 30px;
+	color: #CCC;
+	margin: 0px;
+}
